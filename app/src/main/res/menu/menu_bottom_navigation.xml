@@ -2,18 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-            android:id="@+id/item1"
-            android:icon="@drawable/ic_android_color_control_normal_24dp"
-            android:title="Item 1" />
+        android:id="@+id/iPopular"
+        android:icon="@drawable/ic_baseline_public_24"
+        android:title="@string/dashboard_popular" />
 
     <item
-            android:id="@+id/item2"
-            android:icon="@drawable/ic_android_color_control_normal_24dp"
-            android:title="Item 2" />
-
-    <item
-            android:id="@+id/item3"
-            android:icon="@drawable/ic_android_color_control_normal_24dp"
-            android:title="Item 3" />
+        android:id="@+id/iTopRated"
+        android:icon="@drawable/ic_baseline_stars_24"
+        android:title="@string/dashboard_top_rated" />
 
 </menu>

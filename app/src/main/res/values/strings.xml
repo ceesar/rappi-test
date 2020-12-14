@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TestApp</string>
+
+    <string name="loading">cargando</string>
+    <string name="retry">Reintentar</string>
+
+    <string name="dashboard_search">Buscar</string>
+    <string name="dashboard_search_hint">Escriba el nombre de una película</string>
+    <string name="dashboard_popular">Populares</string>
+    <string name="dashboard_top_rated">Mejor calificadas</string>
+
+    <string name="movie_detail_synopsis">Resumen</string>
+    <string name="movie_detail_date">Fecha</string>
+
+    <!-- Animations -->
+    <string name="transition_movie_poster">moviePosterTransition</string>
+
 </resources>
