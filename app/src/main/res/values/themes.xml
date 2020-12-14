@@ -64,12 +64,8 @@
         <item name="android:textSize">10sp</item>
     </style>
 
-    <!--
-
-
-      -->
     <style name="AppTheme.BottomNavigation.Themed" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="colorSurface">@color/primaryColor</item>
+        <item name="colorSurface">@color/primaryDarkColor</item>
         <item name="colorPrimary">@color/primaryTextColor</item>
         <item name="colorOnSurface">@color/primaryTextColor</item>
     </style>
