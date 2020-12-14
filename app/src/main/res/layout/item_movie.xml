@@ -30,6 +30,7 @@
         android:ellipsize="end"
         android:maxLines="1"
         android:padding="5dp"
+        android:textColor="@color/primaryDarkColor"
         tools:text="Titulo" />
 
 </androidx.cardview.widget.CardView>
